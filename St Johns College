@@ -1,61 +1,150 @@
-Building Overview
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>St John's College, Southsea</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #0779e4 3px solid;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 24px;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        section {
+            padding: 20px;
+            margin-top: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #0779e4;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin: 5px 0;
+        }
+        .section-title {
+            font-size: 20px;
+            font-weight: bold;
+            color: #0779e4;
+            margin-bottom: 10px;
+        }
+        .map, .links {
+            margin-top: 20px;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
 
-Name: St John’s College
-Location: St John’s College, Southsea, Portsmouth, Hampshire, UK
-Year Built: [Insert year]
-Architectural Style: Villa-style detached properties owned or built by Thomas Ellis Owen, the architect and chief surveyor for the Portsmouth area in the mid-1800s.
-Current Status: Abandoned, partially demolished, being redeveloped, stripped out
-History
+<header>
+    <h1>St John's College, Southsea</h1>
+</header>
 
-St John’s College was founded in [1908] and originally served as a boarding school for girls and boys aged 2 – 18 years. Over the years, it became known for being a co-ed independent day and boarding school for children aged 4 – 18, located in the heart of Southsea. At St John's College, we pride ourselves on the academic success of each individual student and our outstanding pastoral care.
+<div class="container">
+    <section>
+        <h2>Building Overview</h2>
+        <p><strong>Name:</strong> St John’s College</p>
+        <p><strong>Location:</strong> St John’s College, Southsea, Portsmouth, Hampshire, UK</p>
+        <p><strong>Year Built:</strong> [Insert year]</p>
+        <p><strong>Architectural Style:</strong> Villa-style detached properties by Thomas Ellis Owen, architect and chief surveyor for Portsmouth in the mid-1800s.</p>
+        <p><strong>Current Status:</strong> Abandoned, partially demolished, being redeveloped, stripped out</p>
+    </section>
 
-The building was closed in [2022] and left abandoned, though much of its original structure remains intact.
+    <section>
+        <h2>History</h2>
+        <p>St John’s College was founded in [1908] as a boarding school for boys and girls aged 2-18 years. It later became known as a co-ed independent day and boarding school for children aged 4-18, located in the heart of Southsea. The college is renowned for its academic success and outstanding pastoral care.</p>
+        <ul>
+            <li><strong>Founded in 1843</strong> as a theological college by the Church of England.</li>
+            <li>Expanded to offer educational programs, including teacher training.</li>
+            <li>Served as a hospital in WWI during both World Wars.</li>
+            <li>Closed in 1970 and repurposed for residential and office use.</li>
+            <li>Popular among urban explorers for its architecture and history.</li>
+        </ul>
+    </section>
 
-Important Events:
-Founded in 1843 as a theological college by the Church of England.
-Expanded to offer a broader range of educational programs, including teacher training.
-Played a role during both World Wars; served as a hospital in WWI.
-Closed in 1970 and was repurposed for residential and office use.
-Gained attention from urban explorers due to its preserved architecture and historical significance.
-About the Building
+    <section>
+        <h2>About the Building</h2>
+        <p>St John’s College in Southsea is a notable example of Edwardian architecture, featuring neo-Gothic elements such as pointed arches, decorative stonework, and turret-like towers. The main building, known as the "Castle" by students, has large, ornate windows that allow natural light to flood in.</p>
+        <p><strong>Current State:</strong> Much of the building remains structurally intact. The area with sports facilities, including the sports hall, dance studio, and auditorium, is still in pristine condition, although demolition has begun in the rear. The sports hall and dance studios have been demolished, and the rest may not last long.</p>
+    </section>
 
-St John’s College, Southsea, is a prominent example of Edwardian architecture. The building is notable for its neo-Gothic style, which features high, pointed arches and decorative stonework. It consists of multiple floors, with different sections housing various educational facilities, including classrooms, dormitories, and communal spaces. The college's central building, which was known as the "Castle" by students, includes large, ornate windows that provide ample natural light. Other key architectural highlights include its turret-like towers, steep gables, and a large clock tower, adding a medieval character to the structure. The college's layout included various wings that housed different departments and facilities, such as the chapel, sports hall, and music rooms.
+    <section class="map">
+        <h2>Location</h2>
+        <p><strong>Coordinates:</strong> 50.7884° N, 1.0869° W</p>
+        <ul>
+            <li>St Jude's Church</li>
+            <li>Palmerston Rd</li>
+            <li>Southsea</li>
+        </ul>
+    </section>
 
-Current State: Despite being abandoned, much of the building remains structurally intact. The firme, which housed the sports facilities, including the sports hall, dance studio, and auditorium, is in pristine condition, untouched by time. However, demolition work has recently begun at the rear of the building. So far, the sports hall and dance studios have been demolished, and it's uncertain how much longer the remaining sections will stand.
-Location
+    <section class="links">
+        <h2>Useful Links</h2>
+        <ul>
+            <li><a href="https://en.wikipedia.org/wiki/St_John's_College,_Portsmouth" target="_blank">St John’s College Wikipedia</a></li>
+            <li><a href="https://www.bbc.co.uk/news/uk-england-hampshire-61479723" target="_blank">BBC Article</a></li>
+        </ul>
+    </section>
 
-Coordinates: 50.7884° N, 1.0869° W
-Nearby Landmarks:
-St Jude's Church
-Palmerston Rd
-Southsea
+    <section>
+        <h2>Photos</h2>
+        <p>Insert images of St John’s College showing various exterior and interior views.</p>
+    </section>
 
-Useful Links
-https://stjohnscollege-consultation.co.uk
+    <section>
+        <h2>Discussion / Forum</h2>
+        <ul>
+            <li>Has anyone explored St John’s College recently? What was the condition like inside?</li>
+            <li>What do you think of the history of St John’s College and its potential future?</li>
+        </ul>
+    </section>
 
+    <section>
+        <h2>Notes & Safety Tips</h2>
+        <p><strong>Safety Advice:</strong> When exploring St John’s College, bring a flashlight, gloves, sturdy boots, and protective gear. Carry a first aid kit, water, and snacks.</p>
+        <p><strong>Legal Considerations:</strong> As it’s an abandoned site, check if permission is needed to explore.</p>
+    </section>
 
-Exterior Views: Images of the main building from various angles, showing the facade and any distinct features.
-Interior Views: Images of the inside, such as hallways, classrooms, or any noteworthy details.
-Close-ups: Close-up photos of interesting elements like old doors, windows, or furniture remnants.
-Map of Location
+    <section>
+        <h2>Future Plans for the Building</h2>
+        <p>Insert any known redevelopment plans, news, or rumors about what’s next for St John’s College. Possible future uses may include residential flats, a museum, or preservation as-is.</p>
+    </section>
+</div>
 
-[Embed a map with St John’s College pin (Google Maps or other platform link)]
-Discussion / Forum
+<footer>
+    <p>&copy; [Year] St John's College Exploration Page</p>
+</footer>
 
-Recent Explorations:
-“Has anyone explored St John’s College recently? What was the condition like inside?”
-“What do you think of the history of St John’s College and its potential future?”
-Your Experience:
-“I explored St John’s College last week and found [insert personal observations]. It was really interesting to see [insert details of the exploration].”
-Notes & Safety Tips
-
-Safety Advice: When exploring St John’s College, ensure you bring the following items:
-Flashlight (Nebo 2K or similar)
-Gloves, sturdy boots, and protective gear
-First aid kit
-Water bottle and snacks
-Legal Considerations: As St John’s College is an abandoned site, it’s essential to check if you need permission to explore. [Insert any local rules or regulations if applicable.]
-Future Plans for the Building
-
-[Insert any known redevelopment plans, news, or rumors about what’s next for St John’s College.]
-[Possible future uses of the building, like converting it into flats, a museum, or leaving it as-is.]
+</body>
+</html>
